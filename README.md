@@ -1,6 +1,9 @@
 # Google-ADK-Training
 Google ADK Training
 
+<img width="1170" height="601" alt="image" src="https://github.com/user-attachments/assets/5cde7566-c4eb-42c9-8b97-2ddb747641b8" />
+
+
 ## Day 1: Introduction & Setup
 
 - What is Google ADK? Why Agentic AI?
