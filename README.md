@@ -50,10 +50,7 @@ Google ADK Training
 - Built-in evaluation framework
 - Logging and telemetry
 - Safety checks and debugging
-Day 10: Advanced Use Cases & Best Practices
-•
-Enterprise workflows
-•
-Security & compliance
-•
-Future roadmap and Q&A
+## Day 10: Advanced Use Cases & Best Practices
+-Enterprise workflows
+-Security & compliance
+-Future roadmap and Q&A
